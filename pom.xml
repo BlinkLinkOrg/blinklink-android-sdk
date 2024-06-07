@@ -4,7 +4,7 @@
   <groupId>io.blinklink.sdk</groupId>
   <artifactId>feed</artifactId>
   <version>0.0.1</version>
-  <packaging>aar</packaging>
+  <packaging>maven-plugin</packaging>
   <dependencies>
     <dependency>
       <groupId>androidx.media3</groupId>
